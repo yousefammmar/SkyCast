@@ -1,5 +1,4 @@
 # SkyCast
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/yousefammmar/SkyCast)
 
 SkyCast is a beautifully designed, modern weather dashboard that provides real-time weather information and a 5-day forecast for any city worldwide. It features a sleek glassmorphism UI, a responsive layout, and intuitive controls, all built with vanilla HTML, CSS, and JavaScript.
 
