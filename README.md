@@ -2,7 +2,7 @@
 
 SkyCast is a beautifully designed, modern weather dashboard that provides real-time weather information and a 5-day forecast for any city worldwide. It features a sleek glassmorphism UI, a responsive layout, and intuitive controls, all built with vanilla HTML, CSS, and JavaScript.
 
-### [View Live Demo](https://yousefammmar.github.io/skycast/)
+### [View Live Demo](https://yousefammmar.github.io/SkyCast/)
 
 ## Features
 
